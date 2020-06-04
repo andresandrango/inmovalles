@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-inmovallesapp-dev-215640-authRole",
+            "UnauthRoleArn": "arn:aws:iam::184079096988:role/amplify-inmovallesapp-dev-215640-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::184079096988:role/amplify-inmovallesapp-dev-215640-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-inmovallesapp-dev-215640-deployment",
+            "UnauthRoleName": "amplify-inmovallesapp-dev-215640-unauthRole",
+            "StackName": "amplify-inmovallesapp-dev-215640",
+            "StackId": "arn:aws:cloudformation:us-east-1:184079096988:stack/amplify-inmovallesapp-dev-215640/a31a3600-a606-11ea-ae24-0a54954134e7",
+            "AmplifyAppId": "d1d0ar69f4wdpn"
+        }
+    }
+}
